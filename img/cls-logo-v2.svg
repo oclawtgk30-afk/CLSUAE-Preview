@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 200" style="background:#0A0A0A">
+
+  <!-- ═══ ICON: C with woman silhouette ═══ -->
+  <g transform="translate(12, 10)">
+
+    <!-- Outer C arc -->
+    <path d="M 148,12 Q 125,8 105,18 Q 60,38 40,88 Q 20,138 48,168 Q 68,190 100,194 Q 130,198 155,188"
+          stroke="#B8955A" stroke-width="5.5" fill="none" stroke-linecap="round"/>
+
+    <!-- Inner C arc (creates thick C) -->
+    <path d="M 145,32 Q 128,28 112,36 Q 76,52 62,90 Q 48,130 68,158 Q 84,178 110,182 Q 132,186 150,178"
+          stroke="#B8955A" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.4"/>
+
+    <!-- Woman's head - positioned in the C opening (top right) -->
+    <ellipse cx="158" cy="38" rx="15" ry="18" stroke="#B8955A" stroke-width="2.5" fill="none"/>
+
+    <!-- Neck -->
+    <line x1="151" y1="56" x2="148" y2="68" stroke="#B8955A" stroke-width="2" opacity="0.9"/>
+    <line x1="165" y1="56" x2="167" y2="68" stroke="#B8955A" stroke-width="2" opacity="0.9"/>
+
+    <!-- Shoulders (subtle curve) -->
+    <path d="M 140,70 Q 125,72 118,78" stroke="#B8955A" stroke-width="2" fill="none" opacity="0.7"/>
+    <path d="M 175,70 Q 185,72 190,80" stroke="#B8955A" stroke-width="2" fill="none" opacity="0.4"/>
+
+    <!-- Long hair — left side, flowing down and curving with the C -->
+    <path d="M 144,22 C 128,30 110,55 102,88 C 94,118 96,150 105,178"
+          stroke="#B8955A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- Hair strand 2 -->
+    <path d="M 150,20 C 136,32 120,58 114,90 C 108,120 110,152 118,180"
+          stroke="#B8955A" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.65"/>
+    <!-- Hair strand 3 — flows over shoulder and down -->
+    <path d="M 156,20 C 148,38 142,68 140,96 C 138,124 142,154 148,178"
+          stroke="#B8955A" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.4"/>
+
+  </g>
+
+  <!-- ═══ VERTICAL DIVIDER ═══ -->
+  <line x1="222" y1="18" x2="222" y2="182" stroke="#B8955A" stroke-width="0.6" opacity="0.35"/>
+
+  <!-- ═══ WORDMARK ═══ -->
+  <text x="245" y="72"
+        font-family="Georgia,'Times New Roman',serif"
+        font-size="32" font-weight="300"
+        fill="#F5F0E8" letter-spacing="7" text-anchor="start">CONTINENTAL</text>
+
+  <text x="245" y="100"
+        font-family="Georgia,'Times New Roman',serif"
+        font-size="15" font-weight="300"
+        fill="#8C7B6E" letter-spacing="7" text-anchor="start">LADIES SALON</text>
+
+  <line x1="245" y1="118" x2="565" y2="118" stroke="#B8955A" stroke-width="0.5" opacity="0.35"/>
+
+  <text x="245" y="136"
+        font-family="Georgia,'Times New Roman',serif"
+        font-size="10" font-weight="300"
+        fill="#B8955A" letter-spacing="4" text-anchor="start">EST. 1989  ·  ABU DHABI</text>
+
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" fill="none">
+  <!-- Decorative top line -->
+  <line x1="60" y1="28" x2="460" y2="28" stroke="#B8955A" stroke-width="0.75" opacity="0.6"/>
+
+  <!-- C L S monogram — centered, spaced -->
+  <text
+    x="260" y="72"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="38"
+    font-weight="300"
+    fill="#B8955A"
+    text-anchor="middle"
+    letter-spacing="22"
+    dominant-baseline="middle"
+  >C L S</text>
+
+  <!-- Thin divider -->
+  <line x1="120" y1="88" x2="400" y2="88" stroke="#B8955A" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Continental -->
+  <text
+    x="260" y="118"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="28"
+    font-weight="300"
+    fill="#F5F0E8"
+    text-anchor="middle"
+    letter-spacing="8"
+    dominant-baseline="middle"
+  >CONTINENTAL</text>
+
+  <!-- Ladies Salon -->
+  <text
+    x="260" y="143"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="14"
+    font-weight="300"
+    fill="#8C7B6E"
+    text-anchor="middle"
+    letter-spacing="6"
+    dominant-baseline="middle"
+  >LADIES SALON</text>
+
+  <!-- Est line -->
+  <line x1="80" y1="158" x2="196" y2="158" stroke="#B8955A" stroke-width="0.5" opacity="0.35"/>
+  <text
+    x="260" y="158"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="10"
+    font-weight="300"
+    fill="#B8955A"
+    text-anchor="middle"
+    letter-spacing="4"
+    dominant-baseline="middle"
+  >EST. 1989 · ABU DHABI</text>
+  <line x1="324" y1="158" x2="440" y2="158" stroke="#B8955A" stroke-width="0.5" opacity="0.35"/>
+
+  <!-- Decorative bottom line -->
+  <line x1="60" y1="172" x2="460" y2="172" stroke="#B8955A" stroke-width="0.75" opacity="0.6"/>
+</svg>
